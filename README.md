@@ -37,7 +37,12 @@ Your first task is to visualize an earthquake data set.
    * Your visualization should look something like the map above.
 
 - - -
+### Step 1 Solution
+![Step 1 Solution Map](Images/Solution_viz.PNG)
 
+[Click here](https://debbiechanca.github.io/earthquake_mapviz/) to try it out for yourself!
+
+- - -
 ### Step 2: More Data
 
 ![5-Advanced](Images/5-Advanced.png)
